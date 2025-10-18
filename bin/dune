@@ -1,0 +1,4 @@
+(executable
+ (public_name ring_buffer)
+ (name main)
+ (libraries ring_buffer))
