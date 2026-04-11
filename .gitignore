@@ -1,1 +1,4 @@
 _build
+bin/ocamllsp
+lib/ocaml-lsp-server/
+doc/ocaml-lsp-server/
